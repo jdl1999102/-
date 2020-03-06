@@ -1,8 +1,7 @@
 # LOVE
-所显示的一些图片
 
-![image](https://github.com/jdl1999102/LOVE/blob/master/Image/music.gif)
+还在为如何给女孩子表白烦恼么，快来看看这个项目吧，保准收获女孩子的芳心。给她一个惊喜。
 
-![image](https://github.com/jdl1999102/LOVE/blob/master/Image/music_no.png)
+加油，祝你早日收获幸福美满的爱情
 
-![image](https://github.com/jdl1999102/LOVE/blob/master/Image/music_off.png)
+一些时间和文字需要改的直接在相应的文件夹里修改即可。欢迎随时交流
